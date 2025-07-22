@@ -22,8 +22,7 @@ def get_base64_image(image_path):
             return base64.b64encode(img_file.read()).decode('utf-8')
     except FileNotFoundError:
         return None
-
-BACKGROUND_IMAGE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "NutriAI.jpg")
+        BACKGROUND_IMAGE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "NutriAI.jpg")
 
 # Load the background image
 background_image_base64 = get_base64_image(BACKGROUND_IMAGE_PATH)
