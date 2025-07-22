@@ -23,7 +23,7 @@ def get_base64_image(image_path):
     except FileNotFoundError:
         return None
 
-BACKGROUND_IMAGE_PATH = "NutriAI.jpg" 
+BACKGROUND_IMAGE_PATH = "NutriAI.jpg"
 
 # Load the background image
 background_image_base64 = get_base64_image(BACKGROUND_IMAGE_PATH)
