@@ -89,7 +89,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 **Surbhi Sharma**   
-LinkedIn: (https://www.linkedin.com/in/surbhisharma3010?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYQbLFpSxSv%2BS2DbTOtSQMg%3D%3D)
+LinkedIn: (www.linkedin.com/in/surbhisharma3010)
 
 ---
 
