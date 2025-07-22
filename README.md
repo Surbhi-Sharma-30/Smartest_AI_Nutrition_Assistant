@@ -1,9 +1,7 @@
 
 # Smartest Nutrition AI Assistant
 
-A Streamlit-based intelligent assistant that provides personalized nutrition advice, calculates BMI and calorie needs, suggests exercises, and supports voice & image input — all powered by AI.
-
-![Banner](https://via.placeholder.com/1000x300?text=Smartest+Nutrition+AI+Assistant)
+A Streamlit-based intelligent assistant that provides personalized nutrition advice, calculates BMI and calorie needs, suggests exercises, and supports voice & image input.
 
 ---
 
@@ -34,7 +32,7 @@ A Streamlit-based intelligent assistant that provides personalized nutrition adv
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/nutrition-ai-assistant.git
+git clone https://github.com/surbhi-sharma-30/nutrition-ai-assistant.git
 cd nutrition-ai-assistant
 ```
 
@@ -60,19 +58,6 @@ streamlit run nutrition_assistant.py
 ```
 
 Open in your browser at `http://localhost:8501`.
-
----
-
-## Deploy on Streamlit Cloud
-
-1. Push your project to GitHub.
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud).
-3. Connect your GitHub repo.
-4. Set `nutrition_assistant.py` as the entry point.
-5. Add a `.streamlit/secrets.toml` file to store API keys securely:
-```toml
-API_KEY = "your-gemini-or-openai-api-key"
-```
 
 ---
 
