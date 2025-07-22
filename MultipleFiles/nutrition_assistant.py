@@ -154,7 +154,7 @@ set_custom_style()
 # App Header
 st.markdown("""
 <div style="text-align:center; margin-bottom: 40px;">
-    <h1 class="gradient-text">Smartest Nutrition AI Assistant</h1>
+    <h1 class="gradient-text">Smartest AI Nutrition Assistant</h1>
     <p>Get instant nutrition advice, calculate your needs, and find exercise suggestions!</p>
 </div>
 """, unsafe_allow_html=True)
