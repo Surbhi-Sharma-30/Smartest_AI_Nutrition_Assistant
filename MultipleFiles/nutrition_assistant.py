@@ -374,4 +374,4 @@ with tab5:
         
 # Footer
 st.markdown("---")
-st.caption("© 2025 Smartest Nutrition AI Assistant | Surbhi Sharma")
+st.caption("© 2025 Smartest AI Nutrition Assistant | Surbhi Sharma")
